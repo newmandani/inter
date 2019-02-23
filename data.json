@@ -1,0 +1,5 @@
+[
+  { "name": "Bandwidth 1", "provider": 48, "user": 240 },
+  { "name": "Bandwidth 2", "provider": 10, "user": 80 },
+  { "name": "Bandwidth 3", "provider": 50, "user": 75 }
+]
